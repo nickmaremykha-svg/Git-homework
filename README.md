@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1bdKnGouDrK43xd0WzjIMoYCuEpwowzEfouCdxasNXIw/
 2. SDLC та STLC. Методології розробки ПЗ.
 
 https://docs.google.com/document/d/1BpkI9g4Yn07v_MNN8TvoytJP1GpjjmMEaYDZamGOUyU/edit?hl=uk&tab=t.0
+
 3. Робота з вимогами. Аналіз та складання вимог
 
 https://docs.google.com/document/d/17W5wyRDlihNbrCazsAcwXOxChHWcrC_6UMoyZKUpC00/edit?hl=ru&tab=t.0
